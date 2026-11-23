@@ -1,0 +1,17 @@
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
